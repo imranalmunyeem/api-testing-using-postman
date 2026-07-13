@@ -6,7 +6,7 @@ By [Imran Al Munyeem](https://imranalmunyeem.com)
 
 [![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Read Online](https://img.shields.io/badge/Read-Online-yellow.svg)](https://imranalmunyeem.github.io/api-testing-using-postman/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1299777034.svg)](https://doi.org/10.5281/zenodo.21347134)
 
 ---
 
@@ -31,7 +31,7 @@ QA engineers moving into API testing, developers who want their APIs properly te
 | Format | Where |
 |---|---|
 | **Online (HTML)** | https://imranalmunyeem.github.io/api-testing-using-postman/ |
-| **PDF** | [Latest release](../../releases/latest) · [Zenodo (citable, DOI)](https://doi.org/10.5281/zenodo.XXXXXXX) |
+| **PDF** | [Latest release](../../releases/latest) · [Zenodo (citable, DOI)](https://doi.org/10.5281/zenodo.21347134) |
 | **EPUB (Kindle & e-readers)** | [Latest release](../../releases/latest) |
 | **Source (Markdown)** | [`src/`](src/) |
 
@@ -71,7 +71,7 @@ Found an error, an outdated screenshot, or a technique worth adding? Issues and 
 
 If this book is useful in your research, teaching, or writing, please cite it (see [`CITATION.cff`](CITATION.cff), or use the **Cite this repository** button on GitHub):
 
-> Munyeem, I. A. (2026). *API Testing Using Postman: The Practical Guide to Modern API Testing*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Munyeem, I. A. (2026). *API Testing Using Postman: The Practical Guide to Modern API Testing*. Zenodo. https://doi.org/10.5281/zenodo.21347134
 
 ## Licence
 

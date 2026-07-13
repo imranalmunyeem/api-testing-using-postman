@@ -9,8 +9,7 @@ authors:
     affiliation: "Nottingham Trent University"
 year: 2026
 url: "https://github.com/imranalmunyeem/api-testing-using-postman"
-# After the first Zenodo release, add:
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.21347134
 license: CC-BY-NC-SA-4.0
 keywords:
   - API testing
