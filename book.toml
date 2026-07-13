@@ -1,0 +1,16 @@
+[book]
+title = "API Testing Using Postman"
+description = "The practical guide to modern API testing — from your first request to AI-assisted CI/CD pipelines."
+authors = ["Imran Al Munyeem"]
+language = "en"
+src = "src"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/imranalmunyeem/api-testing-using-postman"
+edit-url-template = "https://github.com/imranalmunyeem/api-testing-using-postman/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 1

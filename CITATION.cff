@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or reference this book, please cite it as below."
+type: book
+title: "API Testing Using Postman: The Practical Guide to Modern API Testing"
+authors:
+  - family-names: "Al Munyeem"
+    given-names: "Imran"
+    orcid: "https://orcid.org/0009-0007-3538-1172"
+    affiliation: "Nottingham Trent University"
+year: 2026
+url: "https://github.com/imranalmunyeem/api-testing-using-postman"
+# After the first Zenodo release, add:
+# doi: 10.5281/zenodo.XXXXXXX
+license: CC-BY-NC-SA-4.0
+keywords:
+  - API testing
+  - Postman
+  - software testing
+  - test automation
+  - CI/CD
+  - AI-assisted testing
+abstract: >
+  A free, open, practical guide to modern API testing with Postman:
+  HTTP and REST foundations, JavaScript test scripting, variables and
+  environments, test-design strategy, data-driven and scheduled runs,
+  mock servers and monitors, command-line automation with the Postman
+  CLI and Newman, CI/CD integration with Jenkins and GitHub Actions,
+  and AI-assisted testing with Postbot.
